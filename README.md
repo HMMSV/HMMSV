@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building a new portfolio for a client using React!**
 
-- 🌱 I’m currently learning **Advanced Wordpress!**
+- 🌱 I’m currently learning **Advanced Wordpress! (Next up, PHP and Typescript!)**
 
 - 👨‍💻 All of my projects are available at [www.heathervoisin.com](www.heathervoisin.com)
 

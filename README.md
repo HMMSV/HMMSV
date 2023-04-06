@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmmsv&label=Profile%20views&color=0e75b6&style=flat" alt="hmmsv" /> </p>
 
-- 🔭 I’m currently working on **Building a new portfolio for a client using React!**
+- 🔭 I’m currently working on: **Building a new portfolio for a client using React!**
 
-- 🌱 I’m currently learning **Advanced Wordpress! (Next up, PHP and Typescript!)**
+- 🌱 I’m currently learning: **Advanced Wordpress! (Next up, PHP and Typescript!)**
 
-- 👨‍💻 All of my projects are available at [www.heathervoisin.com](www.heathervoisin.com)
+- 👨‍💻 All of my projects are available at: [www.heathervoisin.com](www.heathervoisin.com)
 
-- 💬 Ask me about **React, JavaScript, CSS, Sass, HTML, responsive and accessible design**
+- 💬 Ask me about: **React, JavaScript, CSS, Sass, HTML, responsive and accessible design**
 
-- 📫 How to reach me **heather.m.voisin@gmail.com**
+- 📫 How to reach me: **heather.m.voisin@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding I'm probably travelling or talking about travel, watching sports (or reality TV yikes), or hanging with family and friends!**
+- ⚡ Fun fact: **When I'm not coding I'm probably travelling or talking about travel, watching sports (or reality TV yikes), or hanging with family and friends!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

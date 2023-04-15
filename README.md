@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmmsv&label=Profile%20views&color=0e75b6&style=flat" alt="hmmsv" /> </p>
 
-- 🔭 I’m currently working on: **Building a new portfolio for a client using React!**
+- 🔭 I’m currently working on: **Building a new portfolio website for a client using React!**
 
 - 🌱 I’m currently learning: **Advanced Wordpress! (Next up, PHP and Typescript!)**
 
